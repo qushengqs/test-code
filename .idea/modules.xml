@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/serializbale-test/serializbale-test.iml" filepath="$PROJECT_DIR$/serializbale-test/serializbale-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/spi-test/spi-test.iml" filepath="$PROJECT_DIR$/spi-test/spi-test.iml" />
     </modules>
   </component>
