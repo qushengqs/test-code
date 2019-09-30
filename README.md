@@ -14,4 +14,6 @@
 |012-LinkedBlockingQueueTest|LinkedBolckingQueue|
 |013-PipedStreamTest|并发编程之管道输入输出|
 |014-ForkJoinPoolTest|Fork-Join 分而治之框架|
-|015-ProxyTest|JDK动态代理|
+|015-ProxyTest|JDK代理模式|
+|017-ThreadLocalTest|ThreadLocal|
+|018-GCTest|JVM的Young GC回收方式的日志|
