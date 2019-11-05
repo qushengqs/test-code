@@ -17,7 +17,7 @@ public class BioServer {
                 System.out.println("连接成功....");
 
                 System.out.println();
-                System.out.println("等待客户端的请求....");
+                System.out.println("等待客户端的数据....");
                 socket.getInputStream().read(buffer);
                 System.out.println("接收到数据....");
 
