@@ -11,6 +11,7 @@
 
     <modules>
         <module>001-import</module>
+        <module>002-Conditional</module>
     </modules>
 
     <parent>
